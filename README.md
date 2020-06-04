@@ -12,3 +12,6 @@ export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/tools/bin
 export PATH=$PATH:$ANDROID_HOME/platform-tools
 ```
+
+# Development
+For development we use [eslint](https://eslint.org/) for code formatting and [editor config](https://editorconfig.org/) in order to all the developers in its editors have same configuration for code.
